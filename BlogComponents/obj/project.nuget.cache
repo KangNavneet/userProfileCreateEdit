@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rs0bhfBWdD/1txYZY4+a3BBU0dmgVFGHCLTouwXtTCuY+EYYqxr/p8NIFKGmWGi1u23APPDYnTSLgPVpILfvTQ==",
+  "dgSpecHash": "ZIpC36U4EBpt1lz7nWmbmPprHDE4Scvg7FttFnBVZH+AnmZTzi1W1sgL+/O3kcXy6fW8nLBHnDR3zjOUjoOBEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\navne\\OneDrive\\Documents\\GitHub\\userProfileAuthentication\\BlogComponents\\BlogComponents.csproj",
+  "projectFilePath": "C:\\Users\\navne\\OneDrive\\Documents\\GitHub\\userProfileCreateEdit\\BlogComponents\\BlogComponents.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\navne\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.9\\microsoft.aspnetcore.authorization.3.1.9.nupkg.sha512",
     "C:\\Users\\navne\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.9\\microsoft.aspnetcore.components.3.1.9.nupkg.sha512",

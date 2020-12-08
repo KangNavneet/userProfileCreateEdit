@@ -958,11 +958,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\navne\\OneDrive\\Documents\\GitHub\\userProfileAuthentication\\BlogComponents\\BlogComponents.csproj",
+      "projectUniqueName": "C:\\Users\\navne\\OneDrive\\Documents\\GitHub\\userProfileCreateEdit\\BlogComponents\\BlogComponents.csproj",
       "projectName": "BlogComponents",
-      "projectPath": "C:\\Users\\navne\\OneDrive\\Documents\\GitHub\\userProfileAuthentication\\BlogComponents\\BlogComponents.csproj",
+      "projectPath": "C:\\Users\\navne\\OneDrive\\Documents\\GitHub\\userProfileCreateEdit\\BlogComponents\\BlogComponents.csproj",
       "packagesPath": "C:\\Users\\navne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\navne\\OneDrive\\Documents\\GitHub\\userProfileAuthentication\\BlogComponents\\obj\\",
+      "outputPath": "C:\\Users\\navne\\OneDrive\\Documents\\GitHub\\userProfileCreateEdit\\BlogComponents\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\navne\\AppData\\Roaming\\NuGet\\NuGet.Config",
